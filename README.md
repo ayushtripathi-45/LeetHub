@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ayushtripathi-45/LeetHub/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushtripathi-45/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0845-longest-mountain-in-array](https://github.com/ayushtripathi-45/LeetHub/tree/master/0845-longest-mountain-in-array) |
+| [0976-largest-perimeter-triangle](https://github.com/ayushtripathi-45/LeetHub/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushtripathi-45/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/ayushtripathi-45/LeetHub/tree/master/1200-minimum-absolute-difference) |
 ## Sorting
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ayushtripathi-45/LeetHub/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ayushtripathi-45/LeetHub/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushtripathi-45/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/ayushtripathi-45/LeetHub/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushtripathi-45/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/ayushtripathi-45/LeetHub/tree/master/1200-minimum-absolute-difference) |
 ## Two Pointers
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/ayushtripathi-45/LeetHub/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ayushtripathi-45/LeetHub/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0976-largest-perimeter-triangle](https://github.com/ayushtripathi-45/LeetHub/tree/master/0976-largest-perimeter-triangle) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushtripathi-45/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/ayushtripathi-45/LeetHub/tree/master/0976-largest-perimeter-triangle) |
 ## Counting Sort
 |  |
 | ------- |
