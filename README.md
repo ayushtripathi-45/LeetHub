@@ -104,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushtripathi-45/LeetHub/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Database
+|  |
+| ------- |
+| [1661-average-time-of-process-per-machine](https://github.com/ayushtripathi-45/LeetHub/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
