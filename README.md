@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1174-immediate-food-delivery-ii](https://github.com/ayushtripathi-45/LeetHub/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/ayushtripathi-45/LeetHub/tree/master/1193-monthly-transactions-i) |
 | [1661-average-time-of-process-per-machine](https://github.com/ayushtripathi-45/LeetHub/tree/master/1661-average-time-of-process-per-machine) |
 | [1934-confirmation-rate](https://github.com/ayushtripathi-45/LeetHub/tree/master/1934-confirmation-rate) |
