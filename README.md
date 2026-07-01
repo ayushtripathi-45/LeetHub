@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/ayushtripathi-45/LeetHub/tree/master/1200-minimum-absolute-difference) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushtripathi-45/LeetHub/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ayushtripathi-45/LeetHub/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ayushtripathi-45/LeetHub/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushtripathi-45/LeetHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushtripathi-45/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayushtripathi-45/LeetHub/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ayushtripathi-45/LeetHub/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -113,4 +115,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/ayushtripathi-45/LeetHub/tree/master/1193-monthly-transactions-i) |
 | [1661-average-time-of-process-per-machine](https://github.com/ayushtripathi-45/LeetHub/tree/master/1661-average-time-of-process-per-machine) |
 | [1934-confirmation-rate](https://github.com/ayushtripathi-45/LeetHub/tree/master/1934-confirmation-rate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ayushtripathi-45/LeetHub/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ayushtripathi-45/LeetHub/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ayushtripathi-45/LeetHub/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ayushtripathi-45/LeetHub/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
