@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/ayushtripathi-45/LeetHub/tree/master/0845-longest-mountain-in-array) |
+| [1291-sequential-digits](https://github.com/ayushtripathi-45/LeetHub/tree/master/1291-sequential-digits) |
 ## Math
 |  |
 | ------- |
