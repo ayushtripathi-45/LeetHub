@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ayushtripathi-45/LeetHub/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushtripathi-45/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushtripathi-45/LeetHub/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Greedy
 |  |
@@ -91,11 +92,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ayushtripathi-45/LeetHub/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ayushtripathi-45/LeetHub/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0976-largest-perimeter-triangle](https://github.com/ayushtripathi-45/LeetHub/tree/master/0976-largest-perimeter-triangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushtripathi-45/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ayushtripathi-45/LeetHub/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ayushtripathi-45/LeetHub/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushtripathi-45/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/ayushtripathi-45/LeetHub/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/ayushtripathi-45/LeetHub/tree/master/0179-largest-number) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushtripathi-45/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ayushtripathi-45/LeetHub/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Queue
 |  |
